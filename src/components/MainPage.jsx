@@ -1,5 +1,5 @@
 import { MY_CONTENT } from "../constants/index";
-import profilePic from "../assets/My-Avatar.jpg";
+import profilePic from "../assets/My-Avatar.JPG";
 import { motion } from "framer-motion";
 
 const MainPage = () => {
